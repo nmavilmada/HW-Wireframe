@@ -1,0 +1,102 @@
+
+body{
+    width:960px;
+    font-size:18px;
+    background-color:#777;
+    font-family: Arial, Helvetica, sans-serif;
+    position:relative; left:300px;      
+
+}
+
+header{
+    text-align: center;
+    background-color:#ebebeb;
+    color:#777;
+    padding:50px;
+    margin-top: 5px;
+    margin-bottom:15px;
+    }
+
+nav{
+        text-align: center;
+        background-color:#ebebeb;
+        color:#777;
+        padding:50px;
+        margin-bottom:25px;
+    }   
+
+    section{
+        text-align: center;
+        background-color:#ebebeb;
+        color:#777;
+        width:460px;
+        height:280px;
+        padding:40px;
+        float:left;
+        clear:both;
+    }
+
+    article {
+        text-align: center;
+        color:#ebebeb;
+        background-color:#777;
+        width:500px;
+        height:220px;
+        float:left;
+        clear:both;
+        padding-top:20px;
+        position: relative;left:20px;
+        position:relative;bottom:260px;
+    }
+h1 {
+        
+        text-align: center;
+        background-color:#ebebeb;
+        color:#777;
+        width:420px;
+        height:45px;
+        float:left;
+        clear:both;
+        position:relative;
+        right:445px;
+        top:30px;
+        padding:15px;
+        position:absolute;top:400px;
+        position: absolute;left:50px;
+    }
+p{
+        text-align: center;
+        background-color:#ebebeb;
+        color:#777;
+        width:450px;
+        float:left;
+        clear:both;
+        position:relative;
+        right:445px;
+        top:20px;
+        padding-top:30px;
+        height:50px;        
+        position:absolute;top:500px;
+        position: absolute;left:50px;
+    }
+aside{
+    text-align: center;
+    float:left;
+    color:#777;
+    height:330px;
+    width:400px;
+    padding-top:30px;
+    background-color:#ebebeb;
+    position: relative;left:60px;
+    position:relative;bottom:360px;
+}
+footer{
+    float:left;
+    text-align: center;
+    background-color:#ebebeb;
+    color:#777;
+    width:960px;
+    position:relative;bottom:335px;
+    height:70px;
+    padding-top:50px;
+}
